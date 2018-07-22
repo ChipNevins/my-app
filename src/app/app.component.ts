@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'My First App on new Chip8';
+  title = 'My-App on new Chip8';
 }
